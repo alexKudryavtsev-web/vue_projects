@@ -1,0 +1,16 @@
+.Scribe {
+    border: 1px solid #111;
+    padding: 15px;
+}
+
+.Scribe-title {
+    display: block;
+}
+
+.Scribe-content {
+    display: block;
+}
+
+.Scribe-push {
+    display: block;
+}
